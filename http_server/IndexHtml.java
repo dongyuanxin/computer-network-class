@@ -13,8 +13,7 @@ public class IndexHtml {
             "<title>首页</title>\n" +
             "</head>\n" +
             "<body>\n" +
-            "<center><h1>Hello,My name is 董沅鑫.</h1></center>\n" +
+            "<center><h1 style=\"color:red;\">Hello,My name is 董沅鑫.</h1></center>\n" +
             "</body>\n" +
             "</html>";
 }
-
